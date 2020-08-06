@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Vinicius Lima, i have 17 years old and started to learn code seriously in the beginning of the covid quarentine, but i have also started to lear python in 2019 by a cousin idication who is a senior developer.
+I am not working at no company at this moment.
+Crrently doing the CS50 from Harvard and the Next Level Week #2 from Rocketseat
+I like technologies, games and series
+
+Hope you like me
+
+https://www.linkedin.com/in/vinicius-almeida-lima-3281771b1/
 <!--
 **ViniciusLima10/ViniciusLima10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
