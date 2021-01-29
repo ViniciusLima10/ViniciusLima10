@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vinicius Lima, I am 17 years old and started to learn code seriously in the beginning of the covid quarantine, though I began learning python in 2019 through my cousin's indication, who is a senior developer. I am not working at any company at this moment. Currently doing the CS50 course from Harvard and the Next Level Week #2 from Rocketseat. I like technologies, games and TV shows.
+My name is Vinicius Lima, I am 17 years old and started to learn code seriously in the beginning of the covid quarantine, though I began learning python in 2019 through my cousin's indication, who is a senior developer. I am not working at any company at this moment. Currently studying  fullstack technologies like node.js and react. I like technologies, games and TV shows.
 
 Hope you like me
 
