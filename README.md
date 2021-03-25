@@ -15,4 +15,4 @@ Hope you like me
 
 https://www.linkedin.com/in/vinicius-almeida-lima-3281771b1/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusLima10)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusLima10)](https://github.com/anuraghazra/github-readme-stats?theme=tokyonight)
