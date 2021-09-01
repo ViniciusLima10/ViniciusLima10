@@ -3,7 +3,7 @@
 Hope you like me
 
 - 🙋‍♂️ My name is Vinicius Lima
-- 🔭 I’m currently studying at ProgramadorBr
+- 🔭 I’m currently studying computer science at UFSJ
 - 📓 I’m currently learning HTML && CSS && JavaScript && ReactJs && NodeJs
 - 💬 Ask me about ReactJs && NodeJs
 - 📫 How to reach me: Discord => ViNi #7352
